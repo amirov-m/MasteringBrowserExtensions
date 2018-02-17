@@ -1,0 +1,2 @@
+# MasteringBrowserExtensions
+Compilation of extensions
